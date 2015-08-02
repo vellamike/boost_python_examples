@@ -1,0 +1,17 @@
+*.log
+*.pyc
+*.py~
+*.*~
+*.*#
+*~
+*.csv
+*.csv
+*.pyc
+*#*
+*.db
+*.sqlite
+*~
+*.orig
+*.png
+*.so
+*.o
